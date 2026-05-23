@@ -36,3 +36,7 @@ Despite the limited free trial period offered by Google, the following can be no
 - Despite the prompt instructions, the license plates in images 8544.jpg and 2122267.jpg appear formatted with hyphens. Perhaps because Google AI has classified them as corresponding to countries with that format.
 
 - The Gemini-3-15Flash server is often overwhelmed, displaying the message "Error connecting to the Gemini API: 503 UNAVAILABLE." {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Can test the capabilities of Gemini-3-5-flash  as OCR through this Roboflow page:
+
+https://playground.roboflow.com/models/google/gemini-3-5-flash?utm_campaign=Newsletter+-+5%2F21%2F2026+-+%5Bcvpr%5D&utm_content=Newsletter+-5%2F21%2F2026+-+cvpr&utm_medium=email_action&utm_source=email
