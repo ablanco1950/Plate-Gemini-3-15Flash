@@ -3,7 +3,9 @@ Recognizing license plates by calling Gemini-3-15Flash from a Python program.
 
 Installation:
 
-Install the official Google Gen AI SDK: `pip install google-genai pillow`
+Install the official Google Gen AI SDK:
+
+pip install google-genai pillow
 
 A requirements.txt file is included.
 
